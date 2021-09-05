@@ -1,4 +1,4 @@
-# 30 Days of ML
+# 30 Days of ML (2021)
 
 Contest: [Link](https://www.kaggle.com/c/30-days-of-ml)
 
@@ -47,3 +47,27 @@ My best private score: 0.72080
 My best public score: 0.72481
 
 My best private score: 0.72328
+
+### Target Encoding
+
+My best public score: 0.72232
+
+My best private score: 0.72079
+
+### XGB Regressor & Optuna (HyperParam Tuning)
+
+My best public score: 0.71773
+
+My best private score: 0.71600
+
+### Blending
+
+My best public score: 0.71745
+
+My best private score: 0.71585
+
+### Stacking
+
+My best public score: 0.71721
+
+My best private score: 0.71561
